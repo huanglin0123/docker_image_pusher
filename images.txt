@@ -1,1 +1,1 @@
-nginx
+6053537/portainer-ce
