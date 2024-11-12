@@ -1,1 +1,1 @@
-chronograf
+docker pull tutum/influxdb:1.0.0
