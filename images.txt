@@ -1,2 +1,1 @@
-portainer/agent:2.19.5
-influxdb:latest
+chronograf
