@@ -1,1 +1,1 @@
-docker pull tutum/influxdb:1.0.0
+tutum/influxdb:1.0.0
