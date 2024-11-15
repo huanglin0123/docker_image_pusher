@@ -1,1 +1,1 @@
-tutum/influxdb
+portainer/helper-reset-password
