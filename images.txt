@@ -1,1 +1,1 @@
-docker pull nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.3.2
