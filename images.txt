@@ -1,2 +1,2 @@
-minio/minio
-doocs/md
+confluentinc/cp-kafka:latest
+confluentinc/cp-zookeeper:latest
