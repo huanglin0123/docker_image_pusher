@@ -1,1 +1,1 @@
-bitnami/kafka:latest
+ghcr.io/open-webui/open-webui:main
