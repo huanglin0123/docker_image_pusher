@@ -1,1 +1,1 @@
-ollama/ollama
+jericx/syncclipboard-server:latest
