@@ -1,3 +1,1 @@
-prom/node-exporter
-prom/prometheus
-grafana/grafana
+openjdk:8-jdk-alpine
