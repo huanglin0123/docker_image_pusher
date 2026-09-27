@@ -1,1 +1,1 @@
-docker.io/library/openjdk:8-jdk-alpine
+timberio/vector:latest-debian
