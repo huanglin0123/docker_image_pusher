@@ -1,1 +1,1 @@
-docker.io/library/openjdk:17-jdk-alpine
+eclipse-temurin:17-jdk-alpine
