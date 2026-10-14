@@ -1,1 +1,1 @@
-timberio/vector:latest-debian
+openjdk:17-jdk-alpine
